@@ -44,10 +44,8 @@ module.exports = {
         },
         background: "#FFFFFF", // white
         surface: "#F8F9FA", // gray-50
-        text: {
-          primary: "#1D3557", // slate-800
-          secondary: "#6C757D", // gray-500
-        },
+        "text-primary": "#1D3557", // slate-800
+        "text-secondary": "#6C757D", // gray-500
         success: "#28A745", // green-600
         warning: "#FFC107", // yellow-400
         error: "#DC3545", // red-600

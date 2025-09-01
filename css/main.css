@@ -755,14 +755,14 @@ select{
 
 body {
   font-family: 'Inter', sans-serif;
-  color: var(--color-text-primary);
-  background-color: var(--color-background);
+  color: #1D3557;
+  background-color: #FFFFFF;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
   font-weight: 600;
-  color: var(--color-text-primary);
+  color: #1D3557;
 }
 
 .font-accent {
